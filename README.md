@@ -1,6 +1,6 @@
-#Hand-Eye Coordination Game <br>
+# Hand-Eye Coordination Game <br>
 
-##Game Modes: Game has two modes.<br>
+## Game Modes: Game has two modes.<br>
 1. Test Mode:<br>
 *Player puts a card in a region.<br>
 *LCD displays the region number.<br>
@@ -17,7 +17,7 @@
 -Overall score negative: Red LED lights up.<br>
 -Overall score positive: Green LED lights up.<br>
 
-###Some of the Componets used.<br>
+### Some of the Componets used.<br>
 HC-SR04 ultrasonic sensor: Measurement of the region distance.<br>
 Atmel Atmega328p microprocessor: Achieve functionality.<br>
 8-segment display: Display game score and regions.<br>
