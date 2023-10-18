@@ -1,0 +1,26 @@
+*********************************************
+PROJECT FEEDBACK AND MARK BREAKDOWN
+*********************************************
+
+---------------------------------------------
+Demonstration: 100
+---------------------------------------------
+
+---------------------------------------------
+Code Quality and Implementation
+Quality: 70
+Implementation: 75
+Report: 70
+Quality of Engineering: 75
+Total (Code + Report + Quality of Engineering): 72
+
+---------------------------------------------
+
+Penalties: 0
+
+---------------------------------------------
+Final Mark: 84
+---------------------------------------------
+
+Comments:
+Good report. But Image of circuit not clear. Good use of functionality in code
