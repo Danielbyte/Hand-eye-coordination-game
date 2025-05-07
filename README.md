@@ -1,4 +1,7 @@
 # Hand-Eye Coordination Game <br>
+- Hand eye coordination game project coded in Assembly.
+- The main aim for this project was good code design. For the technical report, the main objective was a clear and concise explanation of the implemented solution.
+- Any circuit drawings were a plus (not necessary).
 
 ## Game Modes: Game has two modes.<br>
 `Test Mode`<br>
